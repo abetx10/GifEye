@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="semi_transparent_black">#8F000000</color>
+    <color name="neutral_white">#FAEDE9</color>
+    <color name="black_text">#292929</color>
+    <color name="gray_text">#65686A</color>
+    <color name="background_down">#13141D</color>
+    <color name="gray">#B1B1B1</color>
+
+    <color name="circle1">#F8D5D2</color>
+    <color name="circle2">#FF7F75</color>
+    <color name="circle3">#FB5E52</color>
+</resources>
