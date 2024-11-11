@@ -19,9 +19,9 @@ The app leverages the following technologies and libraries:
 
 ## Screenshots
 
-|       Home Screen      |        Search Results       |       Full-Screen View       |       Landscape Mode       |
-| :--------------------: | :-------------------------: | :-------------------------: | :----------------------: |
-| ![Home Screen](screenshots/Screenshot_1.jpg) | ![Search Results](screenshots/Screenshot_2.jpg) | ![Full-Screen View](screenshots/Screenshot_3.jpg) | ![Landscape Mode](screenshots/Screenshot_4.jpg) |
+|       Home Screen       |       Search Results       |       Full-Screen View       |       Landscape Mode       |
+| :---------------------: | :------------------------: | :--------------------------: | :------------------------: |
+| ![Home Screen](app/screenshots/Screenshot_1.jpg) | ![Search Results](app/screenshots/Screenshot_2.jpg) | ![Full-Screen View](app/screenshots/Screenshot_3.jpg) | ![Landscape Mode](app/screenshots/Screenshot_4.jpg) |
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/GifEye.git`
